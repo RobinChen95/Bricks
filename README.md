@@ -1,7 +1,5 @@
-# Bricks
-
 <h1>X86汇编打砖块游戏</h1>
-<h2>致敬苹果001号员工Stephen Wozniak于1975年编写的打砖块游戏</h2>
+<h2>致敬 Apple Inc. 001号员工Stephen Wozniak于1975年编写的打砖块游戏</h2>
 
 <p>实现的功能：</br>
 1、五个关卡以及不同硬度的砖块</br>
